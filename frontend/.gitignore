@@ -8,8 +8,6 @@
 # testing
 /coverage
 /src/components/__tests__/app.test.js
-/src/components/__tests__/login.test.js
-/src/pages/Login.jsx
 
 # production
 /build
